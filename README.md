@@ -3,6 +3,7 @@
 races
 ![image](https://github.com/user-attachments/assets/54b01f35-f53a-4665-9392-90764142bf46)
 constructor_results
+
 ![image](https://github.com/user-attachments/assets/3e30ead0-1bb4-424b-85d9-7225e68ec601)
 driver
 ![image](https://github.com/user-attachments/assets/3ef7221e-e53c-4d48-84dd-0a2110ebbd98)
@@ -19,12 +20,12 @@ seasons
 pit stops
 ![image](https://github.com/user-attachments/assets/869f7665-1da0-4326-bae6-12c7c376047b)
 
-2. Status Analysis
+3. Status Analysis
 Race Status => อธิบายเทคนิค + การอ่านกราฟ
 ![image](https://github.com/user-attachments/assets/27a5a589-08a3-42e0-b3b6-9eeda2965c89)
 ![image](https://github.com/user-attachments/assets/5c695d9d-8c91-41e7-a2e7-4857ce78af65)
 
-3. Race & Pit stop Analysis
+4. Race & Pit stop Analysis
 3.1
 ![image](https://github.com/user-attachments/assets/d5e93951-2d89-4fe8-a768-6862ded84dd1)
 
