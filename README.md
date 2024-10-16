@@ -4,6 +4,7 @@
 F1 Team
 
 ![image](https://github.com/user-attachments/assets/2c8e8812-ae66-47ed-8665-8e4be67a1f98)
+
 ![image](https://github.com/user-attachments/assets/586792f5-1c90-43d0-9fa3-8ec9e6fbf57c)
 
 
@@ -47,7 +48,18 @@ Race Status => อธิบายเทคนิค + การอ่านก�
 
 ![image](https://github.com/user-attachments/assets/5c695d9d-8c91-41e7-a2e7-4857ce78af65)
 
+4. Constructor & Driver Journey
+   
+4.1 Constructors
+
+![Screenshot 2024-10-17 011729](https://github.com/user-attachments/assets/213b43b1-3b72-4065-9767-42f68d39f632)
+
+4.2 Drivers
+
+![Screenshot 2024-10-17 011454](https://github.com/user-attachments/assets/684ff107-e414-48ee-9f3b-84f139574fa2)
+
 4.Race & Pit stop Analysis
+
 ![image](https://github.com/user-attachments/assets/8a974259-1a6e-48c9-90ec-427272b94f89)
 
 4.1
@@ -55,11 +67,14 @@ Race Status => อธิบายเทคนิค + การอ่านก�
 
 https://github.com/user-attachments/assets/652ce3a2-525f-4336-887f-283d1a11bc48
 
+![image](https://github.com/user-attachments/assets/96395ca5-a601-4f0d-a5d7-a09f6f1264f3)
 
-![image](https://github.com/user-attachments/assets/f05bb58a-e3ae-4066-8036-421182407c5d)
+![image](https://github.com/user-attachments/assets/53b0adae-3f14-452c-8816-112ff95734d1)
 
 4.2 Race Strategy Analysis on Spanish Grand Prix 2024
-![image](https://github.com/user-attachments/assets/821ed3b3-bca2-41fb-aa25-f00de77180f8)
+
+![image](https://github.com/user-attachments/assets/d0fcefee-e10f-4e7b-b72c-661c9592d1a9)
+
 
 Alpine F1 Team
 
