@@ -91,7 +91,7 @@ Component Error and Driver Error by Circuit
 4.Race & Pit stop Analysis
 
 ![image](https://github.com/user-attachments/assets/8a974259-1a6e-48c9-90ec-427272b94f89)
-
+![Pit Stop](https://hips.hearstapps.com/hmg-prod/images/stop-1574089083.gif?crop=0.964xw:0.963xh;0,0&resize=1200:*)
 4.1
 ทางกลุ่มนักศึกษาใช้ Box plot โดยใช้ plotly ซึ่งทางทีมได้ใช้คุณสมบัติของ plotly ในการแสดงผลโดยการนำ เม้า hover แล้วจะมีข้อมูลมาโชว์ เนื่องจากการแสดงข้อมูลจาก Box plot นั้นทางนักศึกษาเล็งเห็นว่าถ้าหากทำการโชว์ข้อมูลตัวเลขทั้งหมดพร้อมๆกันอาจจะทำให้ผู้เห็นการแสดงผลของกราฟนี้จะสับสนได้
 
