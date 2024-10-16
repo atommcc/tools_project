@@ -71,7 +71,10 @@ Component Error and Driver Error by Circuit
 
 ![image](https://github.com/user-attachments/assets/27a5a589-08a3-42e0-b3b6-9eeda2965c89)
 
-กราฟด้านล่านั้นต่อให้เป็น Bar chart ก็จริงแต่เป้าหมายกราฟนี้คือการแสดงความแตกต่างของ Error 2 ประเภทที่มีผลต่อ performance ของ team (Component Error) หรือ performance ของ นักแข่ง (Driver Error) จาก Bar Chart นั้นจะเห็นถึงความแตกต่างของ Error ที่ชัดเจน
+กราฟด้านล่างนั้นต่อให้เป็น Bar chart ก็จริงแต่เป้าหมายกราฟนี้คือการแสดงความแตกต่างของ Error 2 ประเภทที่มีผลต่อ performance ของ team (Component Error) หรือ performance ของ นักแข่ง (Driver Error) จาก Bar Chart นั้นจะเห็นถึงความแตกต่างของ Error ที่ชัดเจน
+
+![image](https://github.com/user-attachments/assets/269d29bd-af9e-43e6-9309-463ae5a515c3)
+
 
 ![image](https://github.com/user-attachments/assets/5c695d9d-8c91-41e7-a2e7-4857ce78af65)
 
