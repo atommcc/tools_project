@@ -55,43 +55,54 @@ https://github.com/user-attachments/assets/652ce3a2-525f-4336-887f-283d1a11bc48
 4.2 Team Analysis
 Alpine F1 Team
 
-![image](https://github.com/user-attachments/assets/b9b6150d-e35c-423e-a16f-8f3392212077)
+![image](https://github.com/user-attachments/assets/20c7fda3-f199-45df-9b9d-c13b2f73d4cd)
+
+
 
 Aston Martin
 
-![image](https://github.com/user-attachments/assets/d14fd037-47e9-4899-bbba-9919c1e8f46f)
+![image](https://github.com/user-attachments/assets/a1cd7f03-291b-4d8c-9fd9-497c824bb0a1)
 
 Ferrari
 
-![image](https://github.com/user-attachments/assets/099dfa14-bd8a-4e67-9cb2-2b711cfe5aea)
+![image](https://github.com/user-attachments/assets/585dd35c-7313-4c86-a406-77221d097c44)
+
+
 
 Haas F1 Team
 
-![image](https://github.com/user-attachments/assets/92c93a0f-cb34-4fd6-ab0e-11dec1c42664)
+![image](https://github.com/user-attachments/assets/edb0f083-657f-411f-a9e5-98fe71a8fde6)
+
 
 Mcleran
 
-![image](https://github.com/user-attachments/assets/915c2678-9660-4ffa-87db-8a7eed3875f5)
+![image](https://github.com/user-attachments/assets/2b5179f5-2e10-4c0c-b951-423cbc817be3)
+
 
 Mercedes
 
-![image](https://github.com/user-attachments/assets/df3f70ac-7dcb-431e-bd36-bfd5499dcd38)
+![image](https://github.com/user-attachments/assets/69487624-ed6f-463f-b9b5-5b7fe6e311e3)
+
 
 RB F1 Team
 
-![image](https://github.com/user-attachments/assets/1bd4199f-8b87-46e3-a3fa-20bd80a52b71)
+![image](https://github.com/user-attachments/assets/94d643e4-faf2-4a57-b0a7-e119d2f6ff4b)
+
 
 Red Bull
 
-![image](https://github.com/user-attachments/assets/a24a4c21-cf15-4472-86fe-51a260c5152a)
+![image](https://github.com/user-attachments/assets/f19cb6eb-3580-4646-a000-4839c6c29721)
+
 
 Sauber
 
-![image](https://github.com/user-attachments/assets/33efc708-607c-4525-9553-ec131808487a)
+![image](https://github.com/user-attachments/assets/043ebf76-c550-4248-a692-5227d4849d98)
+
 
 Willams
 
-![image](https://github.com/user-attachments/assets/72d1d4fb-0299-4c7e-939b-4a3bf7b1a2f6)
+![image](https://github.com/user-attachments/assets/da67c38e-2838-4ae4-899f-e4a1612392b2)
+
 
 
 
