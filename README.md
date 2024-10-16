@@ -1,15 +1,15 @@
+![image](https://github.com/user-attachments/assets/6abcba4e-5ce0-4100-ba72-80b84a948069)
+
 พาร์ทข้อมูลรบกวนพี่ปอนอธิบาย
 F1 Team
-![image](https://github.com/user-attachments/assets/58c44a20-b679-4863-89aa-347c3c85aeb9)
 
-![image](https://github.com/user-attachments/assets/c7575f73-ef58-4a27-bbbf-bc8a1d74eb3a)
+![image](https://github.com/user-attachments/assets/2c8e8812-ae66-47ed-8665-8e4be67a1f98)
+![image](https://github.com/user-attachments/assets/586792f5-1c90-43d0-9fa3-8ec9e6fbf57c)
 
-![image](https://github.com/user-attachments/assets/41265b11-b426-43b5-9273-2c3adcb2eec8)
 
 
 1. load data
 races
-![image](https://github.com/user-attachments/assets/54b01f35-f53a-4665-9392-90764142bf46)
 
 constructor_results
 
@@ -23,7 +23,7 @@ constructors
 
 ![image](https://github.com/user-attachments/assets/405889a4-728f-485d-ac37-95e9e1774409)
 
-lab_taimes
+lab_times
 
 ![image](https://github.com/user-attachments/assets/f9e3febe-70b0-405c-b781-1a63959f02aa)
 
@@ -35,9 +35,6 @@ driver_standings
 
 ![image](https://github.com/user-attachments/assets/449c9a66-ef84-4435-9829-ec550ae6c553)
 
-seasons
-
-![image](https://github.com/user-attachments/assets/2f1c7df0-a76b-4394-95f5-a2192a4952c2)
 
 pit stops
 
@@ -51,6 +48,7 @@ Race Status => อธิบายเทคนิค + การอ่านก�
 ![image](https://github.com/user-attachments/assets/5c695d9d-8c91-41e7-a2e7-4857ce78af65)
 
 4.Race & Pit stop Analysis
+![image](https://github.com/user-attachments/assets/8a974259-1a6e-48c9-90ec-427272b94f89)
 
 4.1
 ![image](https://github.com/user-attachments/assets/d5e93951-2d89-4fe8-a768-6862ded84dd1)
@@ -60,7 +58,9 @@ https://github.com/user-attachments/assets/652ce3a2-525f-4336-887f-283d1a11bc48
 
 ![image](https://github.com/user-attachments/assets/f05bb58a-e3ae-4066-8036-421182407c5d)
 
-4.2 Team Analysis
+4.2 Race Strategy Analysis on Spanish Grand Prix 2024
+![image](https://github.com/user-attachments/assets/821ed3b3-bca2-41fb-aa25-f00de77180f8)
+
 Alpine F1 Team
 
 ![image](https://github.com/user-attachments/assets/20c7fda3-f199-45df-9b9d-c13b2f73d4cd)
