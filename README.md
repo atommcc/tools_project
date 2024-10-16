@@ -1,4 +1,12 @@
-พาร์ทข้อมูลรยกวนพี่ปอนอธิบาย
+พาร์ทข้อมูลรบกวนพี่ปอนอธิบาย
+F1 Team
+![image](https://github.com/user-attachments/assets/58c44a20-b679-4863-89aa-347c3c85aeb9)
+
+![image](https://github.com/user-attachments/assets/c7575f73-ef58-4a27-bbbf-bc8a1d74eb3a)
+
+![image](https://github.com/user-attachments/assets/41265b11-b426-43b5-9273-2c3adcb2eec8)
+
+
 1. load data
 races
 ![image](https://github.com/user-attachments/assets/54b01f35-f53a-4665-9392-90764142bf46)
