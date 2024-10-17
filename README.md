@@ -102,8 +102,7 @@ results
 ![Screenshot 2024-10-17 011729](https://github.com/user-attachments/assets/213b43b1-3b72-4065-9767-42f68d39f632)
 
 4.2 Drivers
-
-![Screenshot 2024-10-17 011454](https://github.com/user-attachments/assets/684ff107-e414-48ee-9f3b-84f139574fa2)
+![Screenshot 2024-10-17 011454](https://github.com/user-attachments/assets/87d8bfcd-15ce-43e0-b5d8-68f92834f6a3)
 
 Insight: แสดงผลการเก็บคะแนนของแต่ละทีม และ นักขับในแต่ละ races ว่ามีผลงานเป็นอย่างไร โดยแบ่งสีของข้อมูลตามทีมที่สังกัด
 
