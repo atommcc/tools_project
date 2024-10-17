@@ -72,7 +72,7 @@ results
 
 
 
-**3. Status Analysis**
+**2. Status Analysis**
 
 ![image](https://github.com/user-attachments/assets/27a5a589-08a3-42e0-b3b6-9eeda2965c89)
 
@@ -95,24 +95,24 @@ results
 - พบว่าในสนามที่สัดส่วนที่ทำให้การแข่งขันไม่จบ จาก Driver error สูงอย่างมีนัยยะสำคัญซึ่งจะสามารถนำข้อมูลส่วนนี้ไปวิเคราะห์ร่วมกับทีม Strategy ในการวางแผน และแก้ไขต่อไป
 
 
-**4. Constructor & Driver Journey**
+**3. Constructor & Driver Journey**
 
-4.1 Constructors
+3.1 Constructors
 
 ![Screenshot 2024-10-17 011729](https://github.com/user-attachments/assets/213b43b1-3b72-4065-9767-42f68d39f632)
 
-4.2 Drivers
+3.2 Drivers
 ![Screenshot 2024-10-17 011454](https://github.com/user-attachments/assets/87d8bfcd-15ce-43e0-b5d8-68f92834f6a3)
 
 Insight: แสดงผลการเก็บคะแนนของแต่ละทีม และ นักขับในแต่ละ races ว่ามีผลงานเป็นอย่างไร โดยแบ่งสีของข้อมูลตามทีมที่สังกัด
 
-**5.Race & Pit stop Analysis**
+**4.Race & Pit stop Analysis**
 
 ![Pit Stop](https://hips.hearstapps.com/hmg-prod/images/stop-1574089083.gif?crop=0.964xw:0.963xh;0,0&resize=1200:*)
 
 **Race & Pit stop Analysis ** 
 
-5.1 Pitstop Analytic
+4.1 Pitstop Analytic
 
 ทางกลุ่มนักศึกษาใช้ Box plot plotly ในการแสดงผลข้อมูลการกระจายตัวของค่าเฉลี่ยนระยะเวลาในการทำ Pitstop ของแต่ละทีมในทุกๆสนาม เพื่อสามารถกำหหนดขอบเขตของข้อมูล และกำจัด outlier ของ ข้อมูล เพื่อนำไปวิเคราะห์ในขั้นตอนถัดไป โดยเมื่อนำ cursor hover ลงไปที่กราฟจะสามารถแสดงผลข้อมูลได้ 
 
@@ -136,18 +136,18 @@ https://github.com/user-attachments/assets/652ce3a2-525f-4336-887f-283d1a11bc48
 
 - แสดงค่าเฉลี่ยระยะเวลาในการทำ Pitstop โดยดเฉลี่ยของทุกทีมในแต่ละสนาม ซึ่งอาจแปลได้ว่า ในการแข่งขันในครั้งถัดไปที่จะเกิดขึ้น หากทำเวลา ได้มาก หรือน้อยกว่าค่าเฉลี่ยของแต่ละสนาม ก็จะสื่อได้ถึง performance ที่ดี หรือ แย่ในการทำ Pitstop และการที่ได้ค่าเฉลี่ยของเวลาในแต่ละสนาม จะสามารถนำข้อมูลนี้ให้ทีม Strategy ในการนำไปวางแผนกลยุทธ์ในการเข้า Pitstop  โดยมุ่งหวังที่จะเพิ่มประสิทธิภาพการเข้าพิทเพื่อสร้างความได้เปรียบในการแข่งขันได้ 
   
-5.2 Race Strategy Analysis on Spanish Grand Prix 2024
+4.2 Race Strategy Analysis on Spanish Grand Prix 2024
  Race Analysis 
 	เนื่องจากการวิเคราะห์ Race นั้นจะต้องทำการใช้กราฟจำนวนทั้ง 3 กราฟในการวิเคราะห์
 โดยจะแบ่งออกเป็น 3 กราฟ แต่ใช้ กราฟ 2ประเภทดังนี้
 
-5.2.1 กราฟเส้นโดยใช้ Linear graph และใช้ Model regression เพื่อแสดงถึงแน้วโน้มของ lap time 
+4.2.1 กราฟเส้นโดยใช้ Linear graph และใช้ Model regression เพื่อแสดงถึงแน้วโน้มของ lap time 
 	
 	 -Lap Time
 	 
 	 -Race Position
 	 
-5.2.2 กราฟ Bar Chart โดย searborn เพื่อแสดงถึง ความแตกต่างของ
+4.2.2 กราฟ Bar Chart โดย searborn เพื่อแสดงถึง ความแตกต่างของ
 
 	 -Stop Time
  
