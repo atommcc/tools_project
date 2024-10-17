@@ -1,8 +1,7 @@
 ![image](https://github.com/user-attachments/assets/6abcba4e-5ce0-4100-ba72-80b84a948069)
 
-พาร์ทข้อมูลรบกวนพี่ปอนอธิบาย
+**Introduction**
 
-Summarization
 ตามกราฟและเนื้อหาข้างต้นทางกลุ่มของนักศึกษาได้นำเทคนิคต่างๆที่ได้เรียนมาประยุกต์ใช้ดังนี้
 กราฟ
 1.matplotlib
@@ -10,79 +9,93 @@ Summarization
 3.seaborn
 
 ประเภทของกราฟ
-เนื่องจากข้อมูลที่นักศึกษานำมาใช้นั้นค่อยข้างเป็นข้อมูลเชิงเฉพาะตัว ทางทีมได้ระดมความคิดและหารือโดยเป้าหมายของประเภทของกราฟที่ต้องการมาแสดง จะต้องมีองค์ประกอบดังนี้
+เนื่องจากข้อมูลที่นักศึกษานำมาใช้นั้นค่อนข้างเป็นข้อมูลเชิงเฉพาะตัว ทางทีมได้ระดมความคิดและหารือโดยเป้าหมายของประเภทของกราฟที่ต้องการมาแสดง จะต้องมีองค์ประกอบดังนี้
 
-1.การแสดงผลของกราฟจะต้องแสดงสอดคล้องกับข้อมูล
+	1.การแสดงผลของกราฟจะต้องแสดงสอดคล้องกับข้อมูล
+	
+	2.การแสดงผลนั้นจะต้องไม่ซับซ้อนมากนักเลือกใช้กราฟที่คนทั่วไปรู้จัก
+	
+	3.เน้นการสื่อสารกับคนดูที่ไม่รู้เรื่องข้อมูลเข้าใจโดยง่ายดาย
 
-2.การแสดงผลนั้นจะต้องไม่ซับซ้อนมากนักเลือกใช้กราฟที่คนทั่วไปรู้จัก
-
-3.เน้นการสื่อสารกับคนดูที่ไม่รู้เรื่องข้อมูลเข้าใจโดยง่ายดาย
-
-F1 Team
-
-![image](https://github.com/user-attachments/assets/2c8e8812-ae66-47ed-8665-8e4be67a1f98)
+**F1 GrandPrix**
 
 ![image](https://github.com/user-attachments/assets/586792f5-1c90-43d0-9fa3-8ec9e6fbf57c)
 
+**F1 Team**
+
+![image](https://github.com/user-attachments/assets/2c8e8812-ae66-47ed-8665-8e4be67a1f98)
+
+**F1 Driver**
+
+![image](https://github.com/user-attachments/assets/52ea1adb-7457-49d3-aefb-671e637f0638)
 
 
-1. load data
+
+**1. Data Exploration**
 races
+![image](https://github.com/user-attachments/assets/777c1696-ccf7-40ee-866d-16537a14fe77)
 
 constructor_results
 
-![image](https://github.com/user-attachments/assets/3e30ead0-1bb4-424b-85d9-7225e68ec601)
+![image](https://github.com/user-attachments/assets/f210c086-184b-478b-b70f-8fb4e5b2a353)
+
 
 driver
 
-![image](https://github.com/user-attachments/assets/3ef7221e-e53c-4d48-84dd-0a2110ebbd98)
+![image](https://github.com/user-attachments/assets/3560e0c0-1047-4691-bad3-5d5148b70436)
+
 
 constructors
 
-![image](https://github.com/user-attachments/assets/405889a4-728f-485d-ac37-95e9e1774409)
+![image](https://github.com/user-attachments/assets/0e401276-462c-4aa2-8ebc-0c424d740d97)
+
 
 lab_times
 
-![image](https://github.com/user-attachments/assets/f9e3febe-70b0-405c-b781-1a63959f02aa)
+![image](https://github.com/user-attachments/assets/a52550d4-b4cf-4f57-bcc9-1baceef4efad)
+
 
 status
 
-![image](https://github.com/user-attachments/assets/baebf436-255e-4e8a-943e-134f87baa529)
+![image](https://github.com/user-attachments/assets/251a39e7-b7f6-4595-97bb-553658230e1c)
+
 
 driver_standings
 
-![image](https://github.com/user-attachments/assets/449c9a66-ef84-4435-9829-ec550ae6c553)
+![image](https://github.com/user-attachments/assets/de8b70aa-ac30-400a-91e2-1501707a9658)
 
 
 pit stops
 
-![image](https://github.com/user-attachments/assets/869f7665-1da0-4326-bae6-12c7c376047b)
+![image](https://github.com/user-attachments/assets/a6ec6171-e0c3-42d3-85da-d2e30e5d9478)
 
-3. Status Analysis
-Race Status => อธิบายเทคนิค + การอ่านกราฟ
+results
 
-ตามองค์ประกอบข้างต้นทุกๆท่านจะเห็นได้ว่าทางทีมของกลุ่มนักศึกษานั้นจะเลือกใช้กราฟ
-1.Bar chart โดยใช้ searboarn
-Race status 
-แสดงนั้นจะมีคอลลัมอื่นๆเข้ามารวมด้วย อาทิ การวิเคราะห์ค่า Race status นั้นจะเห็นได้ว่าทางทีมได้ใข้ Bar chart ก็จริงแต่จุดประสงค์ของกราฟนี้นั้นมีเปรียบเทียบของข้อมูลเลยมีค่า ข้อมูลรวมของ Race status นั้นๆ (สีเทา) และมีการแบ่งย่อยของแต่ละ status ออกมาเพื่อให้เห็นค่าของข้อมูลที่จัดเจน
+![image](https://github.com/user-attachments/assets/6493f94b-b55b-4f1f-9236-60d18428e950)
 
-Insight: จากข้อมูลที่แสดง ได้มีการแบ่งจำนวนของ races ที่แข่งจบ และไม่จบ จากปัญหา เครื่องยนต์หรืออุปกรณ์เสียหาย หรือ ปัญหาจากอุบัติเหตุจากนักขับ และ อื่นๆ เพื่อให้ทราบว่า ในแต่ละทีมช่วง 5 ปีที่ผ่านมามีสถิติในการแข่งขันเป็นอย่างไร
 
-	
+**3. Status Analysis**
+
 ![image](https://github.com/user-attachments/assets/27a5a589-08a3-42e0-b3b6-9eeda2965c89)
 
+จากข้อมูลข้างต้นเป็นการสรุปข้อมูล Status ของแต่ละ races สำหรับแต่ละทีมย้อนหลัง  
+โดยเลือกใช้กราฟ Bar chart ในการแสดง แสดงและสรุป
+Race statusของแต่ละทีม
+แสดงนั้นจะมีคอลลัมอื่นๆเข้ามารวมด้วย อาทิ การวิเคราะห์ค่า Race status นั้นจะเห็นได้ว่าทางทีมได้ใข้ Bar chart ก็จริงแต่จุดประสงค์ของกราฟนี้นั้นมีเปรียบเทียบของข้อมูลเลยมีค่า ข้อมูลรวมของ Race status นั้นๆ (สีเทา) และมีการแบ่งย่อยของแต่ละ status ออกมาเพื่อให้เห็นค่าของข้อมูลที่จัดเจน
 
-กราฟด้านล่างนั้นต่อให้เป็น Bar chart ก็จริงแต่เป้าหมายกราฟนี้คือการแสดงความแตกต่างของ Error 2 ประเภทที่มีผลต่อ performance ของ team (Component Error) หรือ performance ของ นักแข่ง (Driver Error) จาก Bar Chart นั้นจะเห็นถึงความแตกต่างของ Error ที่ชัดเจน
-Insight: จากข้อมูลที่แสดง จะพบว่าในแต่ละสนามมีสาเหตุที่ทำให้นักแข่งไม่สามารถแข่นจนจบได้ด้วยสาเหตุที่มาจาก ความผิดพลาดของนักแข่ง, อุบัติเหตุ หรือ ความเสียหายที่เกิดจากทีมวิศวกรรม
-
-![image](https://github.com/user-attachments/assets/269d29bd-af9e-43e6-9309-463ae5a515c3)
-
+Insight: จากข้อมูล จะพบว่าในแต่ละสนามมีสาเหตุที่ทำให้นักแข่งไม่สามารถแข่นจนจบได้ด้วยสาเหตุที่มาจาก ความผิดพลาดของนักแข่ง, อุบัติเหตุ หรือ ความเสียหายที่เกิดจากทีมวิศวกรรม
 
 ![image](https://github.com/user-attachments/assets/5c695d9d-8c91-41e7-a2e7-4857ce78af65)
 
-4. Constructor & Driver Journey
+![image](https://github.com/user-attachments/assets/269d29bd-af9e-43e6-9309-463ae5a515c3)
 
-Insight: แสดงผลการเก็บคะแนนของแต่ละทีม และ นักขับในแต่ละ races ว่ามีผลงานเป็นอย่างไร โดยแบ่งสีตามทีม
+จากกราฟคือการแสดงความแตกต่างของ Error 2 ประเภท ที่มีผลต่อ performance ของทีม คือ Component Error จากความเสียหายของเครื่องยนต์ และ Performance ของ นักแข่ง (Driver Error) 
+
+Insight: จากข้อมูลที่แสดง ได้มีการแบ่งจำนวนของ races ที่แข่งจบ และไม่จบ จากปัญหา เครื่องยนต์หรืออุปกรณ์เสียหาย หรือ ปัญหาจากอุบัติเหตุจากนักขับ และ อื่นๆ เพื่อให้ทราบว่า ในแต่ละทีมช่วง 5 ปีที่ผ่านมามีสถิติในการแข่งขันเป็นอย่างไร
+
+
+**4. Constructor & Driver Journey**
+
 
 Race & Pit stop Analysis 
 	box plot วิเคราะห์ ระยะเวลาในการทำ pitstop ของแต่ละทีม โดยดูการกระจายตัวของข้อมูล และความสม่ำเสมอของระยะเวลาในการทำ Pitstop ซึ่งสะท้อนถึง Performance ของทีม pit  
@@ -98,14 +111,14 @@ bar chart ทีมจากข้อมูล box plotข้างต้น ไ
 
 ![Screenshot 2024-10-17 011454](https://github.com/user-attachments/assets/684ff107-e414-48ee-9f3b-84f139574fa2)
 
-4.Race & Pit stop Analysis
+Insight: แสดงผลการเก็บคะแนนของแต่ละทีม และ นักขับในแต่ละ races ว่ามีผลงานเป็นอย่างไร โดยแบ่งสีตามทีม
 
+**5.Race & Pit stop Analysis**
 
 ![Pit Stop](https://hips.hearstapps.com/hmg-prod/images/stop-1574089083.gif?crop=0.964xw:0.963xh;0,0&resize=1200:*)
 
 4.1
-ทางกลุ่มนักศึกษาใช้ Box plot โดยใช้ plotly ซึ่งทางทีมได้ใช้คุณสมบัติของ plotly ในการแสดงผลโดยการนำ เม้า hover แล้วจะมีข้อมูลมาโชว์ เนื่องจากการแสดงข้อมูลจาก Box plot นั้นทางนักศึกษาเล็งเห็นว่าถ้าหากทำการโชว์ข้อมูลตัวเลขทั้งหมดพร้อมๆกันอาจจะทำให้ผู้เห็นการแสดงผลของกราฟนี้จะสับสนได้
-
+ทางกลุ่มนักศึกษาใช้ Box plot โดยใช้ plotly ซึ่งทางทีมได้ใช้คุณสมบัติของ plotly ในการแสดงผลโดยการนำ cursor hover ลงไปที่กราฟเพื่อแสดงผลข้อมูล 
 
 ![image](https://github.com/user-attachments/assets/d5e93951-2d89-4fe8-a768-6862ded84dd1)
 
