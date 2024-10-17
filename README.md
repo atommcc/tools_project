@@ -26,6 +26,7 @@
 ข้อมูลที่ใช้ประกอบด้วยรายละเอียดการแข่งขัน ผลลัพธ์ของ Constructor Driver Circuit และ lap time โดยใช้กราฟแท่ง (Bar chart) และกล่อง (Box plot) ในการสำรวจแนวโน้มต่าง ๆ
 
 races
+
 ![image](https://github.com/user-attachments/assets/777c1696-ccf7-40ee-866d-16537a14fe77)
 
 constructor_results
