@@ -47,7 +47,7 @@ constructors
 ![image](https://github.com/user-attachments/assets/0e401276-462c-4aa2-8ebc-0c424d740d97)
 
 
-lab_times
+lap times
 
 ![image](https://github.com/user-attachments/assets/a52550d4-b4cf-4f57-bcc9-1baceef4efad)
 
